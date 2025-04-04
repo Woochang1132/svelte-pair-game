@@ -1,5 +1,8 @@
+<script>
+    import GameInfo from "./GameInfo.svelte";
+</script>
+
 <main>
-    <h1>
-        GamePlay
-    </h1>
+    <GameInfo />
+    <h1>GamePlay</h1>
 </main>
